@@ -10,4 +10,4 @@
 http://my-json-server.typicode.com/parserpp/ip_ports/posts/
 http://my-json-server.typicode.com/parserpp/ip_ports/comments/
 http://my-json-server.typicode.com/parserpp/ip_ports/movie/
-https://my-json-server.typicode.com/parserpp/ip_ports/movie/casts/avatars
+https://my-json-server.typicode.com/parserpp/ip_ports/movie/
