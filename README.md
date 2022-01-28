@@ -4,8 +4,10 @@
 
 
 ## 访问地址
+
 * https://raw.githubusercontent.com/parserpp/ip_ports/main/proxyinfo.txt
-* https://cdn.jsdelivr.net/gh/parserpp/ip_ports/main/proxyinfo.txt
+* https://cdn.jsdelivr.net/gh/parserpp/ip_ports/proxyinfo.txt
+* https://cdn.jsdelivr.net/gh/parserpp/ip_ports/proxyinfo.json
 
 ## mock 接口
 
