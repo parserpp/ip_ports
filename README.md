@@ -14,7 +14,7 @@
 * 官方网站: https://my-json-server.typicode.com/parserpp/ip_ports/
 
 
-- http://my-json-server.typicode.com/parserpp/ip_ports/posts/db
+- http://my-json-server.typicode.com/parserpp/ip_ports/db
 
 
 ### 参考
