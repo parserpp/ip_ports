@@ -1,1 +1,1 @@
-{"http_transparent": [{"from": "freeproxylist", "host": "146.185.169.166", "anonymity": "transparent", "port": 7018, "response_time": 0.71, "country": "NL", "type": "http"}]}
+{"http_transparent": [{"type": "http", "anonymity": "transparent", "from": "freeproxylist", "port": 7018, "country": "NL", "host": "146.185.169.166", "response_time": 0.58}], "http_high_anonymous": [{"type": "http", "anonymity": "high_anonymous", "from": "freeproxylist", "port": 80, "country": "US", "host": "107.151.182.247", "response_time": 0.84}]}
