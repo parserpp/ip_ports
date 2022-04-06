@@ -2,7 +2,6 @@
 
 > 免费代理地址
 
-
 ## 远程请求地址
 
 ### JSON格式
@@ -12,6 +11,7 @@
 * **CDN链接**: `https://fastly.jsdelivr.net/gh/parserpp/ip_ports@main/proxyinfo.json`
 * **CDN链接**: `https://github.rc1844.workers.dev/parserpp/ip_ports/raw/main/proxyinfo.json`
 * **CDN链接**: `https://github.rc1844.workers.dev/parserpp/ip_ports/raw/main/proxyinfo.json`
+
 ### Text 格式
 
 * **Github链接**: `https://raw.githubusercontent.com/parserpp/ip_ports/main/proxyinfo.txt`
@@ -33,5 +33,5 @@
 ### 参考
 
 * https://my-json-server.typicode.com/
-* * api端口: https://blog.csdn.net/qq_40492771/article/details/109768122
+  * api端口: https://blog.csdn.net/qq_40492771/article/details/109768122
 * https://github.com/Lin152/myjson
