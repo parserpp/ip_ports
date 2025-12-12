@@ -1,1 +1,87 @@
-{"http_high_anonymous": [{"type": "http", "host": "141.253.118.174", "port": 80, "anonymity": "high_anonymous", "country": "BE", "response_time": 0.82, "from": "proxylist"}, {"type": "http", "host": "154.31.115.210", "port": 80, "anonymity": "high_anonymous", "country": "JP", "response_time": 0.92, "from": "freeproxylist"}]}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "142.93.202.130",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.42,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "81.10.234.234",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "AT",
+      "response_time": 1.65,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "219.249.37.107",
+      "port": 8382,
+      "anonymity": "high_anonymous",
+      "country": "KR",
+      "response_time": 1.78,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "141.253.118.174",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "BE",
+      "response_time": 1.81,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "168.235.82.57",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 1.83,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "218.89.134.230",
+      "port": 3333,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 2.04,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "81.162.104.161",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "UA",
+      "response_time": 2.24,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "202.133.88.173",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "BD",
+      "response_time": 2.74,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "211.230.49.122",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "KR",
+      "response_time": 2.39,
+      "from": "freeproxylist"
+    }
+  ]
+}
