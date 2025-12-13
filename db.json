@@ -1,1 +1,24 @@
-{}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "91.238.104.172",
+      "port": 2024,
+      "anonymity": "anonymous",
+      "country": "UA",
+      "response_time": 2.04,
+      "from": "proxylist"
+    }
+  ],
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "8.221.118.5",
+      "port": 9090,
+      "anonymity": "high_anonymous",
+      "country": "SG",
+      "response_time": 2.45,
+      "from": "proxylist"
+    }
+  ]
+}
