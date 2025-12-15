@@ -1,1 +1,89 @@
-{"http_high_anonymous": [{"type": "http", "host": "68.183.143.134", "port": 80, "anonymity": "high_anonymous", "country": "US", "response_time": 0.56, "from": "freeproxylist"}]}
+{
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "141.253.118.174",
+      "port": 80,
+      "anonymity": "transparent",
+      "country": "BE",
+      "response_time": 0.54,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "80.78.31.129",
+      "port": 80,
+      "anonymity": "transparent",
+      "country": "SE",
+      "response_time": 1.62,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "80.78.18.54",
+      "port": 80,
+      "anonymity": "transparent",
+      "country": "SE",
+      "response_time": 2.18,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "142.93.202.130",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "US",
+      "response_time": 2.49,
+      "from": "proxylist"
+    }
+  ],
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "147.231.163.133",
+      "port": 80,
+      "anonymity": "anonymous",
+      "country": "CZ",
+      "response_time": 1.54,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "211.38.188.120",
+      "port": 9080,
+      "anonymity": "anonymous",
+      "country": "KR",
+      "response_time": 1.9,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "210.209.236.242",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "TW",
+      "response_time": 2.4,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "58.182.198.111",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "SG",
+      "response_time": 2.42,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "94.23.9.170",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "FR",
+      "response_time": 2.96,
+      "from": "freeproxylist"
+    }
+  ]
+}
