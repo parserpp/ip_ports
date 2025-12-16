@@ -1,1 +1,22 @@
-{}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "218.89.134.230",
+      "port": 3333,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 1.28,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "154.205.147.214",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.63,
+      "from": "proxylist"
+    }
+  ]
+}
