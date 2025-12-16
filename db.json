@@ -1,1 +1,13 @@
-{"http_high_anonymous": [{"type": "http", "host": "38.54.101.90", "port": 80, "anonymity": "high_anonymous", "country": "US", "response_time": 0.66, "from": "freeproxylist"}]}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "47.105.98.23",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "CN",
+      "response_time": 2.06,
+      "from": "proxylist"
+    }
+  ]
+}
