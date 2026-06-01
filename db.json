@@ -1,1 +1,13 @@
-{}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "52.226.76.91",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.26,
+      "from": "proxylist"
+    }
+  ]
+}
