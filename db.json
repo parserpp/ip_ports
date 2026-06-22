@@ -1,1 +1,13 @@
-{"http_anonymous": [{"type": "http", "host": "34.200.8.40", "port": 3128, "anonymity": "anonymous", "country": "US", "response_time": 0.33, "from": "proxylist"}], "https_high_anonymous": [{"type": "https", "host": "34.200.8.40", "port": 3128, "anonymity": "high_anonymous", "country": "US", "response_time": 0.63, "from": "proxylist"}]}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "185.141.26.131",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "RO",
+      "response_time": 0.45,
+      "from": "proxylist"
+    }
+  ]
+}
