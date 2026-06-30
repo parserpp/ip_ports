@@ -1,1 +1,22 @@
-{}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "43.167.199.44",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "CN",
+      "response_time": 1.4,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "91.233.223.147",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "RU",
+      "response_time": 1.48,
+      "from": "proxylist"
+    }
+  ]
+}
