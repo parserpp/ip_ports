@@ -1,1 +1,31 @@
-{}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "104.225.220.233",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.78,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "62.84.245.79",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "NL",
+      "response_time": 0.84,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "145.239.196.123",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "FR",
+      "response_time": 1.23,
+      "from": "freeproxylist"
+    }
+  ]
+}
