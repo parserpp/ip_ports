@@ -1,1 +1,13 @@
-{"http_high_anonymous": [{"type": "http", "host": "165.138.86.202", "port": 8080, "anonymity": "high_anonymous", "country": "US", "response_time": 0.91, "from": "proxylist"}]}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "147.78.1.53",
+      "port": 8081,
+      "anonymity": "anonymous",
+      "country": "MX",
+      "response_time": 1.38,
+      "from": "proxylist"
+    }
+  ]
+}
