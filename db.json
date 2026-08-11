@@ -1,1 +1,13 @@
-{}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "15.235.21.254",
+      "port": 8080,
+      "anonymity": "anonymous",
+      "country": "US",
+      "response_time": 1.02,
+      "from": "freeproxylist"
+    }
+  ]
+}
