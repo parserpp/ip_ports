@@ -1,1 +1,69 @@
-{"http_high_anonymous": [{"type": "http", "host": "195.26.230.202", "port": 8080, "anonymity": "high_anonymous", "country": "GB", "response_time": 0.93, "from": "freeproxylist"}, {"type": "http", "host": "212.47.232.28", "port": 80, "anonymity": "high_anonymous", "country": "FR", "response_time": 0.81, "from": "freeproxylist"}, {"type": "http", "host": "5.45.126.128", "port": 8080, "anonymity": "high_anonymous", "country": "EE", "response_time": 0.88, "from": "freeproxylist"}], "http_anonymous": [{"type": "http", "host": "160.34.208.144", "port": 80, "anonymity": "anonymous", "country": "DE", "response_time": 0.54, "from": "freeproxylist"}]}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "109.199.119.160",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "BG",
+      "response_time": 0.22,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "188.191.165.159",
+      "port": 8080,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 0.6,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "206.245.131.160",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.66,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "147.78.0.81",
+      "port": 9443,
+      "anonymity": "high_anonymous",
+      "country": "CA",
+      "response_time": 0.78,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "152.42.167.241",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 1.36,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "95.211.174.135",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "GB",
+      "response_time": 0.29,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "157.230.178.216",
+      "port": 40000,
+      "anonymity": "anonymous",
+      "country": "US",
+      "response_time": 2.44,
+      "from": "freeproxylist"
+    }
+  ]
+}
