@@ -1,1 +1,13 @@
-{}
+{
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "176.111.37.216",
+      "port": 39811,
+      "anonymity": "transparent",
+      "country": "UA",
+      "response_time": 1.54,
+      "from": "proxylist"
+    }
+  ]
+}
