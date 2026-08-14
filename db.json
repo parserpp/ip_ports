@@ -1,1 +1,13 @@
-{}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "115.231.181.40",
+      "port": 8128,
+      "anonymity": "anonymous",
+      "country": "CN",
+      "response_time": 2.97,
+      "from": "proxylist"
+    }
+  ]
+}
