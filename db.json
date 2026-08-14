@@ -1,1 +1,13 @@
-{}
+{
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "176.57.189.138",
+      "port": 3128,
+      "anonymity": "anonymous",
+      "country": "DE",
+      "response_time": 0.56,
+      "from": "proxylist"
+    }
+  ]
+}
