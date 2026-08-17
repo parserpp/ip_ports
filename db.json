@@ -1,1 +1,13 @@
-{}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "103.237.102.191",
+      "port": 11111,
+      "anonymity": "high_anonymous",
+      "country": "MO",
+      "response_time": 0.92,
+      "from": "proxylist"
+    }
+  ]
+}
