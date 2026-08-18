@@ -1,1 +1,89 @@
-{"http_transparent": [{"type": "http", "host": "38.29.32.240", "port": 3128, "anonymity": "transparent", "country": "CA", "response_time": 0.86, "from": "proxylist"}]}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "116.196.150.180",
+      "port": 17981,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 1.62,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "79.110.202.131",
+      "port": 8081,
+      "anonymity": "high_anonymous",
+      "country": "PL",
+      "response_time": 1.72,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "145.239.196.123",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "FR",
+      "response_time": 2.3,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "183.215.23.242",
+      "port": 9091,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 2.48,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "46.47.197.210",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 2.78,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "217.16.136.160",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "RS",
+      "response_time": 2.82,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "195.26.230.202",
+      "port": 8080,
+      "anonymity": "high_anonymous",
+      "country": "GB",
+      "response_time": 2.86,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "160.34.208.144",
+      "port": 80,
+      "anonymity": "anonymous",
+      "country": "DE",
+      "response_time": 1.66,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "197.248.167.153",
+      "port": 8080,
+      "anonymity": "transparent",
+      "country": "KE",
+      "response_time": 2.9,
+      "from": "proxylist"
+    }
+  ]
+}
