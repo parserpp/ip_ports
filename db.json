@@ -1,1 +1,197 @@
-{"http_transparent": [{"type": "http", "host": "98.83.197.228", "port": 3128, "anonymity": "transparent", "country": "US", "response_time": 0.75, "from": "proxylist"}]}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "47.252.52.58",
+      "port": 8081,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.3,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "46.47.197.210",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 0.74,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "178.140.3.161",
+      "port": 5678,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 0.67,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "64.112.184.210",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.76,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "89.110.115.238",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 0.86,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "195.26.230.202",
+      "port": 8080,
+      "anonymity": "high_anonymous",
+      "country": "GB",
+      "response_time": 0.87,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "79.110.202.131",
+      "port": 8081,
+      "anonymity": "high_anonymous",
+      "country": "PL",
+      "response_time": 1.33,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "199.7.149.96",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 1.54,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "202.28.194.139",
+      "port": 31280,
+      "anonymity": "high_anonymous",
+      "country": "TH",
+      "response_time": 1.82,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "181.39.25.196",
+      "port": 8118,
+      "anonymity": "high_anonymous",
+      "country": "EC",
+      "response_time": 1.88,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "95.66.138.21",
+      "port": 8880,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 1.85,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "204.76.203.9",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.16,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "159.65.245.255",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.27,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "172.237.73.24",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.03,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "95.40.233.164",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "PL",
+      "response_time": 2.6,
+      "from": "freeproxylist"
+    },
+    {
+      "type": "http",
+      "host": "176.99.134.183",
+      "port": 8090,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 2.53,
+      "from": "freeproxylist"
+    }
+  ],
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "116.202.108.111",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "DE",
+      "response_time": 0.67,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "212.58.132.5",
+      "port": 8888,
+      "anonymity": "transparent",
+      "country": "US",
+      "response_time": 1.23,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "190.97.236.128",
+      "port": 999,
+      "anonymity": "transparent",
+      "country": "VE",
+      "response_time": 1.55,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "181.78.74.252",
+      "port": 999,
+      "anonymity": "transparent",
+      "country": "AR",
+      "response_time": 1.66,
+      "from": "proxylist"
+    }
+  ],
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "154.68.64.2",
+      "port": 80,
+      "anonymity": "anonymous",
+      "country": "RW",
+      "response_time": 2.45,
+      "from": "proxylist"
+    }
+  ]
+}
