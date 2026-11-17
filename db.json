@@ -1,1 +1,60 @@
-{"http_high_anonymous": [{"type": "http", "host": "72.56.73.23", "port": 80, "anonymity": "high_anonymous", "country": "US", "response_time": 0.42, "from": "proxylist"}, {"type": "http", "host": "109.95.220.45", "port": 8080, "anonymity": "high_anonymous", "country": "RU", "response_time": 0.72, "from": "proxylist"}], "http_transparent": [{"type": "http", "host": "144.124.251.24", "port": 10333, "anonymity": "transparent", "country": "GB", "response_time": 0.57, "from": "proxylist"}, {"type": "http", "host": "144.124.251.24", "port": 10412, "anonymity": "transparent", "country": "GB", "response_time": 0.55, "from": "proxylist"}, {"type": "http", "host": "47.52.223.161", "port": 5872, "anonymity": "transparent", "country": "HK", "response_time": 0.79, "from": "proxylist"}]}
+{
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "72.56.73.23",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.36,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "109.95.220.45",
+      "port": 8080,
+      "anonymity": "high_anonymous",
+      "country": "RU",
+      "response_time": 0.53,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "113.204.79.230",
+      "port": 9091,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 1.03,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "61.158.175.38",
+      "port": 9002,
+      "anonymity": "high_anonymous",
+      "country": "CN",
+      "response_time": 1.13,
+      "from": "proxylist"
+    }
+  ],
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "41.65.55.27",
+      "port": 1981,
+      "anonymity": "transparent",
+      "country": "EG",
+      "response_time": 0.68,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "47.52.223.161",
+      "port": 5872,
+      "anonymity": "transparent",
+      "country": "HK",
+      "response_time": 1.28,
+      "from": "proxylist"
+    }
+  ]
+}
