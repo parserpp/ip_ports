@@ -1,1 +1,134 @@
-{"http_transparent": [{"type": "http", "host": "172.235.157.127", "port": 3128, "anonymity": "transparent", "country": "US", "response_time": 0.31, "from": "proxylist"}, {"type": "http", "host": "202.237.174.1", "port": 80, "anonymity": "transparent", "country": "JP", "response_time": 0.84, "from": "proxylist"}], "https_high_anonymous": [{"type": "https", "host": "172.235.157.127", "port": 3128, "anonymity": "high_anonymous", "country": "US", "response_time": 0.61, "from": "proxylist"}], "http_high_anonymous": [{"type": "http", "host": "72.56.73.23", "port": 80, "anonymity": "high_anonymous", "country": "US", "response_time": 0.64, "from": "proxylist"}, {"type": "http", "host": "109.236.88.82", "port": 80, "anonymity": "high_anonymous", "country": "NL", "response_time": 0.58, "from": "proxylist"}, {"type": "http", "host": "89.58.57.45", "port": 80, "anonymity": "high_anonymous", "country": "DE", "response_time": 0.54, "from": "proxylist"}, {"type": "http", "host": "140.238.32.108", "port": 3128, "anonymity": "high_anonymous", "country": "JP", "response_time": 0.8, "from": "proxylist"}]}
+{
+  "http_transparent": [
+    {
+      "type": "http",
+      "host": "172.235.157.127",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "US",
+      "response_time": 0.23,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "197.164.101.11",
+      "port": 1976,
+      "anonymity": "transparent",
+      "country": "EG",
+      "response_time": 0.76,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "45.136.253.145",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "NL",
+      "response_time": 1.6,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "176.111.37.5",
+      "port": 39811,
+      "anonymity": "transparent",
+      "country": "UA",
+      "response_time": 1.67,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "45.155.226.177",
+      "port": 3128,
+      "anonymity": "transparent",
+      "country": "US",
+      "response_time": 2.33,
+      "from": "proxylist"
+    }
+  ],
+  "http_high_anonymous": [
+    {
+      "type": "http",
+      "host": "140.238.32.108",
+      "port": 3128,
+      "anonymity": "high_anonymous",
+      "country": "JP",
+      "response_time": 0.42,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "109.236.88.82",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "NL",
+      "response_time": 0.52,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "89.58.57.45",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "DE",
+      "response_time": 0.56,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "72.56.73.23",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 0.61,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "182.155.254.159",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "TW",
+      "response_time": 0.74,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "203.95.196.56",
+      "port": 8080,
+      "anonymity": "high_anonymous",
+      "country": "KH",
+      "response_time": 0.96,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "150.140.148.235",
+      "port": 80,
+      "anonymity": "high_anonymous",
+      "country": "GR",
+      "response_time": 1.34,
+      "from": "proxylist"
+    },
+    {
+      "type": "http",
+      "host": "149.18.81.114",
+      "port": 7890,
+      "anonymity": "high_anonymous",
+      "country": "US",
+      "response_time": 2.47,
+      "from": "proxylist"
+    }
+  ],
+  "http_anonymous": [
+    {
+      "type": "http",
+      "host": "47.79.90.218",
+      "port": 8080,
+      "anonymity": "anonymous",
+      "country": "US",
+      "response_time": 1.37,
+      "from": "proxylist"
+    }
+  ]
+}
